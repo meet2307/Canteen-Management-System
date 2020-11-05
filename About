@@ -1,2 +1,25 @@
 DATE::08/10/2020
-Till now we created basic model of canteen management system and add some functinality to it.
+We Made Basic Model Of this Program.
+We Will Design This program output later on.
+
+DATE::17/10/2020
+I modified Owner Login completely and format all the prints values and fix some errors.
+If you do not understand run the updated file and also run the previous file and you automatically see the difference.
+
+DATE::19/10/2020
+In this update i just modified remaining two logins(Employee & Customer).
+Also i remove unnecessary Header Files which i added previously.
+In upcoming update i try to improve the all over design and features of my project.
+
+DATE::04/11/2020
+In This update i fix some bugs and error related to File handling.
+In Update menu for both Employee & Product if we enter previously used key so it effects of searching product and deleting product by their ID or KEY . So i fix it.
+
+
+So Basicaly this is our final project.
+Of course it have some limitation but if we extend time so we can improve this.
+
+
+
+OWNER PASSWORD :: mahir
+EMPLOYEE PASSWORD :: meet
